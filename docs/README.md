@@ -45,3 +45,4 @@ Unix的正则表达式在经过时间的检验后，形成了`POSIX 规范的正
 3. [常用正则表达式](https://github.com/cdoco/common-regex)
 4. [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 5. [history of Regular Expression](https://medium.com/@minisha.mit/regular-expression-part-1-8d75128f6274)
+6. [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)
